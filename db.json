@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": 1
+    }
+  ]
+}
